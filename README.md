@@ -9,6 +9,6 @@ I enjoy coding and im excited for this amazing journey on GitHub!
 
 
 
-![giphy](https://user-images.githubusercontent.com/90259834/132358702-e68afafd-230f-4afc-92a3-47b5224942db.gif)
+#![giphy](https://user-images.githubusercontent.com/90259834/132358702-e68afafd-230f-4afc-92a3-47b5224942db.gif)
 
 
